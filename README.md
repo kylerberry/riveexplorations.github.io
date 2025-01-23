@@ -1,2 +1,3 @@
-# kylerberry.com
-My Personal Website &amp; Blog
+# Rive Explorations
+
+A Personal Rive Playground
